@@ -18,7 +18,7 @@ This is a library to discover the possibilities of "Flow Based Design". The main
 ### plans
 
  - implementation with pure actors
- - implementation with scala.react @ github.com/ingoem/scala-react
+ - implementation with scala.react @ http://github.com/ingoem/scala-react
   
  Currently fighting with it.
 
@@ -27,6 +27,6 @@ This is a library to discover the possibilities of "Flow Based Design". The main
 ### credits
 
  - Ralf Westphal - main inspiration "Flow Based Design"
- - Naftoli Gugenheim @ github.com/nafg/reactive - to my knowledge, he delivered the first **working** framework for reactive programming in scala. My library is essentially based on his framework.
+ - Naftoli Gugenheim @ http://github.com/nafg/reactive - to my knowledge, he delivered the first **working** framework for reactive programming in scala. My library is essentially based on his framework.
 
  
