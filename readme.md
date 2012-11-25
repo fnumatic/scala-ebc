@@ -22,7 +22,7 @@ This is a library to discover the possibilities of "Flow Based Design". The main
   
  Currently fighting with it.
 
- **I hope, that Ingo Maier show us some simple and working examples soon!!!**
+ **I hope, that Ingo Maier shows us some simple and working examples soon!!!**
 
 ### credits
 
